@@ -37,6 +37,3 @@ Proximal Policy Optimization (PPO) is the reinforcement learning algorithm used 
 
 ## Usage
 Once training is complete, the trained model can be loaded into the Unity environment to control the car autonomously.
-
-## License
-This project is open-source and free to use.
